@@ -1,0 +1,172 @@
+    body {
+        margin: 0 auto;
+        font-family: 'Open Sans', sans-serif;
+    }
+    
+    .block1,
+    .block2,
+    .block3,
+    .block4 {
+        border: 1px solid blue;
+    }
+    
+    .block1 {
+        width: 1440px;
+        height: 837px;
+        background: url("../images/slajder-sajt-1.png") center no-repeat;
+        -webkit-background-size: cover;
+        background-size: cover;
+        margin: 0 auto;
+        display: flex;
+    }
+    
+    .black1 {
+        width: 744.83px;
+        height: 837px;
+        background: black;
+        justify-content: space-around;
+        margin-left: 692px;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 28.96% 100%);
+    }
+    
+    .logo {
+        margin-top: 70px;
+        margin-left: 300px;
+    }
+    
+    .logo img {
+        width: 377.26px;
+        height: 63px;
+    }
+    
+    .descr {
+        width: 560px;
+        height: 272px;
+        margin: 125px 0 auto 182px;
+    }
+    
+    .descr h1 {
+        /* font-family: 'Open Sans', sans-serif; */
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 50px;
+        line-height: 68.09px;
+    }
+    
+    .button {
+        width: 245px;
+        height: 72px;
+        margin-top: 137px;
+        margin-left: 444px;
+        border-radius: 5px;
+    }
+    
+    .button button {
+        width: 100%;
+        height: 100%;
+        font-size: 25px;
+    }
+    
+    .block2 {
+        width: 1440px;
+        height: 560px;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    
+    .head {
+        width: 100%;
+        height: 65px;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 65.37px;
+        color: #707070;
+        text-align: center;
+        margin-top: 50px;
+        text-transform: uppercase;
+    }
+    
+    .list {
+        margin-top: 30px;
+        margin-left: 220px;
+    }
+    
+    .list p {
+        margin-top: 0;
+        color: #707070;
+        font-size: 36px;
+        text-align: left;
+        text-transform: uppercase;
+    }
+    
+    .material-icons {
+        padding-right: 50px;
+        font-size: 36px;
+        transform: rotate(80deg);
+    }
+    
+    .block3 {
+        width: 1440px;
+        height: 643px;
+        margin: 0 auto;
+        display: flex;
+    }
+    
+    .operators {
+        width: 900px;
+        height: 643px;
+        background: url("../images/operators.png") center no-repeat;
+        -webkit-background-size: cover;
+        background-size: cover;
+        margin: 0 auto;
+        display: flex;
+    }
+    
+    .black2 {
+        width: 380px;
+        height: 643px;
+        background: black;
+        justify-content: space-around;
+        margin-left: 524px;
+        clip-path: polygon(15% 0%, 100% 0%, 100% 100%, 0% 100%);
+    }
+    
+    .black2 h1 {
+        color: #ffffff;
+        font-size: 48px;
+        font-weight: 400;
+        text-transform: uppercase;
+        text-align: center;
+        margin-top: 93px;
+    }
+    
+    .web,
+    .desk {
+        color: #ffffff;
+        font-size: 25px;
+        font-weight: 400;
+        text-transform: uppercase;
+        margin-left: 55px;
+    }
+    
+    .web {
+        margin-top: 250px;
+        margin-left: 60px;
+    }
+    
+    .desk {
+        margin-top: 36px;
+    }
+    
+    .driver img {
+        width: 540px;
+        height: 100%;
+    }
+    
+    .block4 {
+        width: 1440px;
+        height: 727px;
+        margin: 0 auto;
+    }
