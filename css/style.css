@@ -96,7 +96,7 @@
                 line-height: 65.37px;
                 color: #707070;
                 text-align: center;
-                margin-top: 50px;
+                padding-top: 50px;
                 text-transform: uppercase;
             }
             
@@ -429,9 +429,11 @@
                 height: 70px;
                 background: #EAEAEA;
                 text-align: center;
+               
                 margin-left: 32px;
                 border: none;
                 font-size: 17px;
+                padding:0;
             }
             
             .form button {
@@ -444,6 +446,8 @@
                 text-transform: uppercase;
                 margin-left: 32px;
                 margin-top: 25px;
+                padding:0;
+                border-width:0;
                 cursor: pointer;
             }
             
