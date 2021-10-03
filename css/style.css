@@ -174,12 +174,12 @@ body {
 }
 
 .black2 {
-  width: 385px;
+  width: 382px;
   height: 643px;
   border: none;
   background: black;
   justify-content: space-around;
-  margin-left: 524px;
+  margin-left: 520px;
   clip-path: polygon(15% 0%, 100% 0%, 100% 100%, 0% 100%);
 }
 
@@ -562,7 +562,7 @@ footer {
   color: #707070;
   font-size: 30px;
   margin-top: 100px;
-  margin-left: 85px;
+  margin-left: 104px;
   font-weight: 400;
 }
 
